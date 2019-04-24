@@ -1,3 +1,3 @@
-# test
-test repository for a new user
-it's empty here!! maybe add something later...
+# ML-study
+It's time to use it.
+All my studying and technical experiment 
